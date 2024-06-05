@@ -1,20 +1,42 @@
 # Community Meetings
 
-## Meeting Scheduling
+## CC-API Community Meeting Scheduling
 
-__Topic: CC-API Community Meeting__
+There are 2 options for different time zones. Choose the one that suits you.
 
-__Date: June 5, 2024__
+- Option 1
 
-__Time: 08:00-09:00 AM Beijing Time (UTC + 8)__
+    ```
+    Time: 08:00-09:00 AM Beijing Time (UTC + 8)
 
-Join the meeting by clicking the link below:
+    Date: 
+    June   20, 2024
+    July   18, 2024
+    August 15, 2024
+    ``````
+    Join Zoom Meeting
+    https://intel.zoom.us/j/97887946013?pwd=JJciyZtvJ4vyGBA0OQRtg6vekOLj9Y.1
 
-[Teams meeting link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODI0MjE0MGItODJiOS00Yjk4LWJkODItMjYwYmQ4ZmEwNTcx%40thread.v2/0?context=%7b%22Tid%22%3a%2246c98d88-e344-4ed4-8496-4ed7712e255d%22%2c%22Oid%22%3a%22766f7728-9dbe-44d4-8509-475439c74a87%22%7d)
+    Meeting ID: 978 8794 6013
 
-Meeting ID: 289 807 318 661
+    Passcode: 760951
 
-Passcode: KiwzDv
+- Option 2
+
+    ```
+    Time: 09:00-10:00 PM Beijing Time (UTC + 8)
+
+    Date: 
+    July   3, 2024
+    August 7, 2024
+    ```
+    Join Zoom Meeting
+    https://intel.zoom.us/j/95897653290?pwd=zGjE70aVy3LqSBQQw7RHK1yTSmh2Fv.1
+
+    Meeting ID: 958 9765 3290
+
+    Passcode: 290165
+
 
 ## Meeting recordings
 
