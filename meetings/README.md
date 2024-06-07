@@ -14,6 +14,12 @@ There are 2 options for different time zones. Choose the one that suits you.
     July   18, 2024
     August 15, 2024
     ``````
+    
+    Please download and import the following iCalendar (.ics) files to your calendar system.
+
+    Monthly: https://intel.zoom.us/meeting/tJMlf-6hqj0qG9fJX_EbIdAxJ7W0PgGv5dTl/ics?icsToken=98tyKuCvpjMtE9CTsBiERowEGoqgKPPwiCFfjfpbtifaJiJ6ZiLuHLV1YoJ4N86F
+
+
     Join Zoom Meeting
     https://intel.zoom.us/j/97887946013?pwd=JJciyZtvJ4vyGBA0OQRtg6vekOLj9Y.1
 
@@ -30,6 +36,12 @@ There are 2 options for different time zones. Choose the one that suits you.
     July   3, 2024
     August 7, 2024
     ```
+    
+    Please download and import the following iCalendar (.ics) files to your calendar system.
+
+    Monthly: https://intel.zoom.us/meeting/tJElfu6uqzgoE9QaJSPmJYbRYgXaPIVHhhAn/ics?icsToken=98tyKuCtpjItHNGWshCHRowMGor4KO7wmHZBj_psnTXWMy15WwHED-V6M4JWJvDY
+
+
     Join Zoom Meeting
     https://intel.zoom.us/j/95897653290?pwd=zGjE70aVy3LqSBQQw7RHK1yTSmh2Fv.1
 
