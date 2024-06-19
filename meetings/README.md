@@ -10,7 +10,7 @@ There are 2 options for different time zones. Choose the one that suits you.
     Time: 08:00-09:00 AM Beijing Time (UTC + 8)
 
     Date: 
-    June   20, 2024
+    June   21, 2024
     July   18, 2024
     August 15, 2024
     ``````
