@@ -11,7 +11,7 @@ There are 2 options for different time zones. Choose the one that suits you.
 
     Date: 
     June   21, 2024
-    July   18, 2024
+    July   25, 2024
     August 15, 2024
     ``````
     
