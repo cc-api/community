@@ -55,4 +55,4 @@ Meeting recordings are at [here](https://drive.google.com/drive/folders/1rmB-ePs
 
 ## Meeting Minutes
 
-Meeting minutes are at [here](https://docs.google.com/document/d/1gjOnmuSXp0hTGM66toJvoBUYdWgQcy71hkwBqTX_H48/edit)
+Meeting minutes are at [here](https://docs.google.com/document/d/1gjOnmuSXp0hTGM66toJvoBUYdWgQcy71hkwBqTX_H48/edit?usp=drive_link).
