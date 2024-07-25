@@ -52,3 +52,7 @@ There are 2 options for different time zones. Choose the one that suits you.
 ## Meeting recordings
 
 Meeting recordings are at [here](https://drive.google.com/drive/folders/1rmB-ePs-LXRvmyRKcGgFgFk3S4RrGG8Q?hl=en).
+
+## Meeting Minutes
+
+Meeting minutes are at [here](https://docs.google.com/document/d/1gjOnmuSXp0hTGM66toJvoBUYdWgQcy71hkwBqTX_H48/edit)
