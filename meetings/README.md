@@ -33,7 +33,7 @@ There are 2 options for different time zones. Choose the one that suits you.
     Time: 09:00-10:00 PM Beijing Time (UTC + 8)
 
     Date: 
-    August 7, 2024
+    August 28, 2024
     ```
     
     Please download and import the following iCalendar (.ics) files to your calendar system.
